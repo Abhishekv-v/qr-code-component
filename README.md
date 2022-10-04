@@ -16,8 +16,8 @@ This is my first Frontend Mentor project.
 
 ### Links
 
-- Solution URL: [Github] (https://github.com/Abhishekv-v/qr-code-component)
-- Live Site URL: [Live] (https://abhishekv-v.github.io/qr-code-component/)
+- Solution URL: [Github](https://github.com/Abhishekv-v/qr-code-component)
+- Live Site URL: [Live](https://abhishekv-v.github.io/qr-code-component/)
 
 ### Built with
 
